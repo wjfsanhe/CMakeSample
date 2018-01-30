@@ -1,0 +1,15 @@
+Executable : /home/wangjf/Android/Sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/disk1/AndroidStudioProjects/amars/app
+-B/disk1/AndroidStudioProjects/amars/app/.externalNativeBuild/cmake/debug/armeabi-v7a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/home/wangjf/Android/Sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/disk1/AndroidStudioProjects/amars/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_MAKE_PROGRAM=/home/wangjf/Android/Sdk/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/home/wangjf/Android/Sdk/cmake/3.6.4111459/android.toolchain.cmake
+-DANDROID_PLATFORM=android-24
+-DCMAKE_CXX_FLAGS=-fexceptions
+jvmArgs : 
+

@@ -1,0 +1,4 @@
+#Mon Jan 29 21:02:20 CST 2018
+base.0=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/24
+renamed.0=classes.dex
+file.0=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/24/classes.dex

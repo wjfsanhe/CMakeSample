@@ -1,0 +1,19 @@
+#Tue Jan 30 14:46:44 CST 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/29
+base.4=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/32
+base.3=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/30
+base.2=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/31
+base.1=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/28
+base.0=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/33
+file.5=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/29/classes.dex
+file.4=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/32/classes.dex
+file.3=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/30/classes.dex
+file.2=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/31/classes.dex
+file.1=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/28/classes.dex
+file.0=/disk1/AndroidStudioProjects/amars/app/build/intermediates/transforms/dexMerger/debug/33/classes.dex
